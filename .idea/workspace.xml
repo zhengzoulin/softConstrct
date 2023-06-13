@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57c06319-7365-4237-bdad-21ca4ec6c35a" name="Default Changelist" comment="" />
+    <list default="true" id="57c06319-7365-4237-bdad-21ca4ec6c35a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/softTest1/test01.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,6 +112,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.testA" />
@@ -152,6 +165,7 @@
       <workItem from="1685452356667" duration="1647000" />
       <workItem from="1685510109823" duration="130000" />
       <workItem from="1686623987702" duration="674000" />
+      <workItem from="1686624880997" duration="363000" />
     </task>
     <servers />
   </component>
@@ -168,5 +182,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
