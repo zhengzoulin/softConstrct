@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57c06319-7365-4237-bdad-21ca4ec6c35a" name="Default Changelist" comment="测试新增">
+    <list default="true" id="57c06319-7365-4237-bdad-21ca4ec6c35a" name="Default Changelist" comment="第三次修改">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/softTest1/test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/softTest1/test01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +166,7 @@
       <workItem from="1685452356667" duration="1647000" />
       <workItem from="1685510109823" duration="130000" />
       <workItem from="1686623987702" duration="674000" />
-      <workItem from="1686624880997" duration="722000" />
+      <workItem from="1686624880997" duration="1078000" />
     </task>
     <task id="LOCAL-00001" summary="测试新增">
       <created>1686625294378</created>
@@ -174,11 +175,42 @@
       <option name="project" value="LOCAL" />
       <updated>1686625294378</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第一次修改">
+      <created>1686625620066</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686625620066</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第二次修改">
+      <created>1686625667489</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686625667489</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第三次修改">
+      <created>1686625715923</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686625715923</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -194,6 +226,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试新增" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试新增" />
+    <MESSAGE value="第一次修改" />
+    <MESSAGE value="第二次修改" />
+    <MESSAGE value="第三次修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三次修改" />
   </component>
 </project>
